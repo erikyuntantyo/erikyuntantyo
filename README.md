@@ -2,7 +2,7 @@
 
 ---
 
-## <samp>Hi there, I'm</samp> <a href="https://www.linkedin.com/in/erikyuntantyo/" target="_blank"><samp>Erik Yuntantyo</samp></a>
+## <samp>Hi there, I'm</samp>&nbsp;<a href="https://www.linkedin.com/in/erikyuntantyo/" target="_blank"><samp>Erik Yuntantyo</samp></a>
 
 
 ### <samp># Recent Activity</samp>

@@ -1,16 +1,23 @@
-## Hi there 👋
+#### <samp>~/Documents/workspace/sources/ » whoami</samp>
 
-<!--
-**erikyuntantyo/erikyuntantyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## <samp>Hi there, I'm</samp> <a href="https://www.linkedin.com/in/erikyuntantyo/" target="_blank"><samp>Erik Yuntantyo</samp></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### <samp># Recent Activity</samp>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikYuntantyo&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=nord"/>
+
+
+![Erik Yuntantyo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErikYuntantyo&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=nord)
+
+---
+
+### <samp># Reach Me</samp>
+
+<p>
+  <a target="_blank"href="https://www.linkedin.com/in/ErikYuntantyo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/El_Critico_Don"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:faniyantoyin@gmail.com?subject=Hello%20Oluwatoyin,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>

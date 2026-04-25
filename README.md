@@ -14,7 +14,7 @@
 
 ### <samp># Latest Writing</samp>
 
-- **[turmerrific](https://github.com/ErikYuntantyo/turmerrific)** — Your flagship project built with Next.js, GraphQL & modern tooling 🚀
+- **[turmerrific](https://github.com/ErikYuntantyo/turmerrific)** — Free Next.js starter — `npx`-ready, pre-configured for GraphQL, REST, Supabase & direct DB access 🚀
 - *[More projects coming soon...]*
 
 ---

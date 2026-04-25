@@ -7,16 +7,25 @@
 
 ### <samp># Recent Activity</samp>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikYuntantyo&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=nord"/>
+<!-- Top Languages: bytes format, compact layout, Nord theme -->
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikYuntantyo&hide_border=true&layout=compact&langs_count=8&theme=nord&stats_format=bytes"/>
 
+---
 
-![Erik Yuntantyo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErikYuntantyo&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=nord)
+### <samp># Latest Writing</samp>
+
+- **[turmerrific](https://github.com/ErikYuntantyo/turmerrific)** — Your flagship project built with Next.js, GraphQL & modern tooling 🚀
+- *[More projects coming soon...]*
 
 ---
 
 ### <samp># Reach Me</samp>
 
 <p>
-  <a target="_blank"href="https://www.linkedin.com/in/erik-yuntantyo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:erik.yuntantyo@gmail.com?subject=Hello%20Erik Yuntantyo,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://www.linkedin.com/in/erik-yuntantyo/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:erik.yuntantyo@gmail.com?subject=Hello%20Erik%20Yuntantyo,%20From%20Github">
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>

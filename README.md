@@ -15,6 +15,7 @@
 ### <samp># Latest Writing</samp>
 
 - **[turmerrific](https://github.com/ErikYuntantyo/turmerrific)** — Free Next.js starter — `npx`-ready, pre-configured for GraphQL, REST, Supabase & direct DB access 🚀
+- **[portfolio-website](https://github.com/ErikYuntantyo/portfolio-website)** — Senior engineer portfolio at erikyuntantyo.com — Next.js 16 (App Router), Tailwind v4, MDX blog, JSON-LD SEO 👋
 - *[More projects coming soon...]*
 
 ---

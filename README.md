@@ -48,10 +48,10 @@
 <p>
   <a target="_blank" href="https://erikyuntantyo.com">
     <img src="https://img.shields.io/badge/website-%23111827.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://www.linkedin.com/in/erik-yuntantyo/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:erik.yuntantyo@gmail.com?subject=Hello%20Erik%20Yuntantyo,%20From%20Github">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
